@@ -76,6 +76,7 @@
 }
 .cards_container .card{
     border: transparent;
+    text-align: center;
 }
 
 .cards_card .cards_title{
