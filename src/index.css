@@ -25,6 +25,9 @@
     padding-top: 5%;
     margin-bottom: 8%;
 }
+.home_container .img-fluid{
+    opacity: 0.2;
+}
 .home_container span{
     color: rgb(255, 145, 0);
 }
