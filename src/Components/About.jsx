@@ -7,11 +7,11 @@ const About = () => {
       <Container className="abt_container">
         <h5>WHO AM I</h5>
         <Row>
-          <Col md={4}>
-            <img src="Images/men3.jpg" alt="" className="" width={500} />
+          <Col md={5}>
+            <img src="Images/men3.jpg" alt="" className="img-fluid" />
           </Col>
-          <Col md={8}>
-            <Card style={{ width: "45rem" }} className="abt_cards">
+          <Col md={7}>
+            <Card style={{ width: "44rem" }} className="abt_cards">
               <Card.Body>
                 <Card.Title>
                   <h3>

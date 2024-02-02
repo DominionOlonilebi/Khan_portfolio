@@ -1,9 +1,9 @@
-*{
+/* *{
     overflow-x: hidden;
 }
 *::-webkit-scrollbar {
     display: none;
-  }
+  } */
 .navbars{
     background-color: rgb(2, 0, 27);
 }
@@ -95,6 +95,7 @@
 .port{
     margin-top: 6%;
     margin-bottom: 12%;
+    text-align: center;
 }
 .port .port_row{
     margin-top: 3%;
