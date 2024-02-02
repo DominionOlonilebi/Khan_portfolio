@@ -17,7 +17,7 @@ const Cards = () => {
         <Container>
           <Row>
             <Col md={4}>
-              <Card style={{ width: "21rem" }} className="card-fluid mb-4">
+              <Card className="card-fluid mb-4">
                 <span className="d-flex flex-row justify-content-center mb-1 mt-4">
                   <BsFillFilterCircleFill />
                 </span>
@@ -32,7 +32,7 @@ const Cards = () => {
               </Card>
             </Col>
             <Col md={4}>
-              <Card style={{ width: "21rem" }} className="card-fluid mb-4">
+              <Card className="card-fluid mb-4">
                 <span className="d-flex flex-row justify-content-center mb-1 mt-4">
                   <BsFillLightbulbFill />
                 </span>
@@ -49,7 +49,7 @@ const Cards = () => {
               </Card>
             </Col>
             <Col md={4}>
-              <Card style={{ width: "21rem" }} className="card-fluid mb-4">
+              <Card className="card-fluid mb-4">
                 <span className="d-flex flex-row justify-content-center mb-1 mt-4">
                   <BsFillLayersFill />
                 </span>
@@ -66,7 +66,7 @@ const Cards = () => {
           </Row>
           <Row>
             <Col md={4}>
-              <Card style={{ width: "21rem" }} className="card-fluid mb-4">
+              <Card className="card-fluid mb-4">
                 <span className="d-flex flex-row justify-content-center mb-1 mt-4">
                   <BsFillLaptopFill />
                 </span>
@@ -81,7 +81,7 @@ const Cards = () => {
               </Card>
             </Col>
             <Col md={4}>
-              <Card style={{ width: "21rem" }} className="card-fluid mb-4">
+              <Card className="card-fluid mb-4">
                 <span className="d-flex flex-row justify-content-center mb-1 mt-4">
                   <BsPieChartFill />
                 </span>
@@ -96,7 +96,7 @@ const Cards = () => {
               </Card>
             </Col>
             <Col md={4}>
-              <Card style={{ width: "21rem" }} className="card-fluid mb-4">
+              <Card className="card-fluid mb-4">
                 <span className="d-flex flex-row justify-content-center mb-1 mt-4">
                   <BsCameraFill />
                 </span>
