@@ -27,6 +27,9 @@ const Navbars = () => {
                 <Nav.Link href="#porfolio" className="linkss mx-3">
                   Portfolio
                 </Nav.Link>
+                <Nav.Link href="#contact" className="linkss mx-3">
+                  Contact
+                </Nav.Link>
               </Nav>
             </Navbar.Collapse>
           </Col>
