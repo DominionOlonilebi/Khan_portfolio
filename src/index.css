@@ -1,0 +1,124 @@
+/* *{
+    overflow-x: hidden;
+}
+*::-webkit-scrollbar {
+    display: none;
+  } */
+.navbars{
+    background-color: rgb(2, 0, 27);
+}
+.navbars .navbars_brand{
+    color: rgb(255, 145, 0);
+    padding-top: 3%;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: cursive;
+}
+.navbars .navbars_brand:hover{
+    color: #fff;
+}
+ .navs .linkss {
+    color: rgb(255, 145, 0);
+    padding-top: 3%;
+    font-size: 18px;
+}
+.navs .linkss:hover{
+    color: #fff;
+}
+.home_container{
+    background-image: linear-gradient(rgb(2, 0, 27), rgb(3, 0, 41));
+    color: #fff;
+    padding-top: 5%;
+    margin-bottom: 8%;
+}
+.home_container .img-fluid{
+    opacity: 0.2;
+}
+.home_container span{
+    color: rgb(255, 145, 0);
+}
+.home_container p{
+    color: silver;
+}
+.home_container .home_col{
+    margin-top: 10%;
+}
+.home_container .home_col h4{
+    margin-bottom: 15%;
+}
+
+/* about page */
+.abt_container{
+    margin-bottom: 7%;
+}
+.abt_container h3{
+    color: rgb(255, 145, 0);
+}
+.abt_container h5{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.abt_container p {
+    font-size: 14px;
+    line-height: 27px;
+}
+.abt_container .card-fluid{
+    margin-top: 22px;
+    box-shadow: 0 5px 10px rgba(126, 125, 125, 0.4);
+    border: transparent;
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+
+/* card page */
+.cards_container{
+    background-color: rgb(243, 243, 243);
+    padding-top: 5%;
+}
+.cards_container .card-fluid{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 15px;
+    line-height: 30px;
+}
+.cards_container .card{
+    border: transparent;
+    text-align: center;
+}
+
+.cards_card .cards_title{
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* portfolio */
+.port{
+    margin-top: 6%;
+    margin-bottom: 12%;
+    text-align: center;
+}
+.port .port_row{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.port h5{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 5%;
+}
+.nav .portfolio{
+    background-color: silver;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+/* footer */
+.footers{
+    padding-top: 4%;
+    padding-bottom: 4%;
+    background-color: rgb(2, 0, 27);
+    text-align: center;
+    color: silver;
+}
