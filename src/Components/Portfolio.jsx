@@ -37,16 +37,19 @@ const Portfolio = () => {
             <h1>95%</h1>
             <h6>Branding</h6>
             <p className="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat totam nesciunt, at assumenda porro ipsum odit vitae pariatur mollitia asperiores, molestias, autem maiores architecto molestiae delectus modi amet libero eius.</p>
+            <button className="btn btn-secondary">Learn more</button>
           </Col>
           <Col md={4}>
             <h1>98%</h1>
             <h6>Web Design</h6>
             <p className="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat totam nesciunt, at assumenda porro ipsum odit vitae pariatur mollitia asperiores, molestias, autem maiores architecto molestiae delectus modi amet libero eius.</p>
+            <button className="btn btn-secondary">Learn more</button>
           </Col>
           <Col md={4}>
             <h1>90%</h1>
             <h6>Photography</h6>
             <p className="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat totam nesciunt, at assumenda porro ipsum odit vitae pariatur mollitia asperiores, molestias, autem maiores architecto molestiae delectus modi amet libero eius.</p>
+            <button className="btn btn-secondary">Learn more</button>
           </Col>
         </Row>
       </Container>
